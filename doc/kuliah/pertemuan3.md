@@ -1,0 +1,6 @@
+# ANATOMI HACKING
+	Hacking adalah salah satu jenis cybercrime yang dimana proses seseorang atau kelompok  mencoba untuk memasuki dan merusak sistem keamanan dari sebuah sistem komputer pada jaringan. Orang atau kelompok yang melakukan kejahatan ini disebut hacker. Oleh karena itu kita perlu mempelajari bagaiamana proses hacking itu terjadi agar dapat lebih efektif dalam perlindungan.
+
+	Anatomi Hacking adalah langkah-langkah yang secara berurutan dilakukan dalam proses Hacking. Anatomi Hacking digunakan bertujuan untuk mempelajari proses hacking sehingga kita dapat bertahan dari serangan Hacker yang bertujuan negatif pada sistem keamanan jaringan milik kita. Oleh sebab itu, kita perlu langkah-langkah yang terstruktur dengan demikian akan lebih memudahkan dalam perlindungan terhadap aset organisasi.
+
+	Dalam Anatomy Hacking ada yang disebut dengan Port Scanning. Port Scanningadalah aktivitas yang dilakukan untuk memeriksa status port TCP dan UDP pada sebuah mesin. Sekarang Anda tahu apa yang host dapat diakses publik pada jaringan target Anda, Anda perlu menentukan apa port yang terbuka pada host ini. Anda dapat melakukannya melalui port scanning, yang merupakan proses scanning host untuk menentukan TCP dan UDP port dapat diakses.
