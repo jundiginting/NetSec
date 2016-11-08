@@ -1,0 +1,4 @@
+# Definisi Sniffing
+Menurut Wikipedia Sniffing adalah  “Sniffer Paket (arti tekstual: pengendus paket — dapat pula diartikan ‘penyadap paket’) yang juga dikenal sebagai Network Analyzers atau Ethernet Sniffer ialah sebuah aplikasi yang dapat melihat lalu lintas data pada jaringan komputer.
+Dikarenakan data mengalir secara bolak-balik pada jaringan, aplikasi ini menangkap tiap-tiap paket dan terkadang menguraikan isi dari RFC (Request for Comments) atau spesifikasi yang lain.
+Berdasarkan pada struktur jaringan (seperti hub atau switch), salah satu pihak dapat menyadap keseluruhan atau salah satu dari pembagian lalu lintas dari salah satu mesin di jaringan. Perangkat pengendali jaringan dapat pula diatur oleh aplikasi penyadap untuk bekerja dalam mode campur-aduk (promiscuous mode) untuk “mendengarkan” semuanya (umumnya pada jaringan kabel).”
